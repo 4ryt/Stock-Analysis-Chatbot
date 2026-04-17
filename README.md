@@ -1,4 +1,4 @@
-# 📈 Financial Stock Analysis Chatbot
+# 📈 Stock Analysis Chatbot
 
 An intelligent stock analysis chatbot built using **Streamlit**, **Google Gemini API**, and **Yahoo Finance (yfinance)**. This application allows users to interactively query stock data, compute technical indicators, and visualize trends in real time.
 
