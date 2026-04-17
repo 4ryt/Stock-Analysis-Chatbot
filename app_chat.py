@@ -158,7 +158,7 @@ AI_AVATAR_ICON = '✨'
 if 'messages' not in st.session_state:
     st.session_state['messages'] = []
 
-st.title('Financial Stock Analysis Chatbot')
+st.title('Stock Analysis Chatbot')
 
 if 'chat' not in st.session_state:
     st.session_state.model = genai.GenerativeModel('gemini-pro')
